@@ -36,6 +36,7 @@ root/
 ---
 ## 📸 Screenshots
 Here are some screenshots of the project:
+![p1](C:\Users\Fatma\OneDrive\Pictures)
 ![p1](https://github.com/user-attachments/assets/130062bd-a39b-41df-8f42-5094d3459035)
 ![p2](https://github.com/user-attachments/assets/4cc42c92-65b0-4602-a521-daa686d1a5fd)
 ![p3](https://github.com/user-attachments/assets/92b24b0d-747a-4078-b59d-07e6ffb95e5e)
