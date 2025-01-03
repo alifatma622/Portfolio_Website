@@ -36,6 +36,12 @@ root/
 ---
 ## 📸 Screenshots
 Here are some screenshots of the project:
+![p2](https://github.com/user-attachments/assets/0505e15a-02d0-467b-80bd-d3983f66d866)
+![p1](https://github.com/user-attachments/assets/374129e4-115c-4a40-a8c6-5d7eb308672c)
+![p5](https://github.com/user-attachments/assets/af266bfd-a62a-438a-8b6f-9cac19d4ea8a)
+![p4](https://github.com/user-attachments/assets/895a60bf-ef4b-4672-a11c-70631e8584d9)
+![p3](https://github.com/user-attachments/assets/8ec8137f-4049-4687-a84f-830cef0f1f70)
+
 ![p3](https://github.com/user-attachments/assets/f710c53d-2366-4678-a3fa-294168272b53)
 ![p2](https://github.com/user-attachments/assets/4529bd5e-cd4f-4696-ae11-38986ea6fa3d)
 ![p1](https://github.com/user-attachments/assets/f436caa5-b9ce-444b-a844-fda31382abc8)
