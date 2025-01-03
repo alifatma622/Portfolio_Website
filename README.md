@@ -36,18 +36,10 @@ root/
 ---
 ## 📸 Screenshots
 Here are some screenshots of the project:
-### Screenshot 1
-![p1](https://raw.githubusercontent.com/user-attachments/assets/ce873904-719b-40e7-a34a-5e23125b4430)
+![p1](https://github.com/user-attachments/assets/130062bd-a39b-41df-8f42-5094d3459035)
+![p2](https://github.com/user-attachments/assets/4cc42c92-65b0-4602-a521-daa686d1a5fd)
+![p3](https://github.com/user-attachments/assets/92b24b0d-747a-4078-b59d-07e6ffb95e5e)
+![p5](https://github.com/user-attachments/assets/e2219918-4ac4-4352-8b6c-d4d45238ad75)
+![p4](https://github.com/user-attachments/assets/72511efd-5809-4754-b6ed-6494569bc7f9)
 
-### Screenshot 2
-![p2](https://raw.githubusercontent.com/user-attachments/assets/205a5a00-13e1-4e06-85e0-f857cb49c42e)
-
-### Screenshot 3
-![p3](https://raw.githubusercontent.com/user-attachments/assets/710ded78-fe5c-40a2-86ee-6bae8d0cd0b2)
-
-### Screenshot 4
-![p4](https://raw.githubusercontent.com/user-attachments/assets/e2eec3bb-0f99-4e2d-a025-bdc346def739)
-
-### Screenshot 5
-![p5](https://raw.githubusercontent.com/user-attachments/assets/ce8455bc-2c94-4bd6-8c77-f9d5c9fcafc1)
 
