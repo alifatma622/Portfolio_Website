@@ -34,15 +34,4 @@ root/
 ├── images/           # Folder for images and assets
 └── README.md         # Documentation file
 ---
-## 📸 Screenshots
-Here are some screenshots of the project:
-![Entity Relationship Diagram](https://raw.githubusercontent.com/user-attachments/assets/f0fdf052-d08d-4fa1-8550-8fdb4cb45cbf)
 
-
-
-![p3](https://github.com/user-attachments/assets/f710c53d-2366-4678-a3fa-294168272b53)
-![p2](https://github.com/user-attachments/assets/4529bd5e-cd4f-4696-ae11-38986ea6fa3d)
-![p1](https://github.com/user-attachments/assets/f436caa5-b9ce-444b-a844-fda31382abc8)
-![p5](https://github.com/user-attachments/assets/012b49b6-46cd-4af2-a6d7-407897fe57ac)
-![p4](https://github.com/user-attachments/assets/ef41d196-d9f3-4160-af83-51b321af158b)
----
