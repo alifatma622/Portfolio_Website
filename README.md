@@ -36,7 +36,8 @@ root/
 ---
 ## 📸 Screenshots
 Here are some screenshots of the project:
-![p2](https://raw.githubusercontent.com/user-attachments/assets/0505e15a-02d0-467b-80bd-d3983f66d866)
+![Entity Relationship Diagram](https://raw.githubusercontent.com/user-attachments/assets/f0fdf052-d08d-4fa1-8550-8fdb4cb45cbf)
+
 
 
 ![p3](https://github.com/user-attachments/assets/f710c53d-2366-4678-a3fa-294168272b53)
