@@ -36,11 +36,9 @@ root/
 ---
 ## 📸 Screenshots
 Here are some screenshots of the project:
-![p1](C:\Users\Fatma\OneDrive\Pictures)
-![p1](https://github.com/user-attachments/assets/130062bd-a39b-41df-8f42-5094d3459035)
-![p2](https://github.com/user-attachments/assets/4cc42c92-65b0-4602-a521-daa686d1a5fd)
-![p3](https://github.com/user-attachments/assets/92b24b0d-747a-4078-b59d-07e6ffb95e5e)
-![p5](https://github.com/user-attachments/assets/e2219918-4ac4-4352-8b6c-d4d45238ad75)
-![p4](https://github.com/user-attachments/assets/72511efd-5809-4754-b6ed-6494569bc7f9)
-
-
+![p3](https://github.com/user-attachments/assets/f710c53d-2366-4678-a3fa-294168272b53)
+![p2](https://github.com/user-attachments/assets/4529bd5e-cd4f-4696-ae11-38986ea6fa3d)
+![p1](https://github.com/user-attachments/assets/f436caa5-b9ce-444b-a844-fda31382abc8)
+![p5](https://github.com/user-attachments/assets/012b49b6-46cd-4af2-a6d7-407897fe57ac)
+![p4](https://github.com/user-attachments/assets/ef41d196-d9f3-4160-af83-51b321af158b)
+---
